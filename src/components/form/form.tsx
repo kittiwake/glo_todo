@@ -1,3 +1,5 @@
+import './form.scss';
+
 export const Form = () => {
     return (
         <div className="form-wrapper">

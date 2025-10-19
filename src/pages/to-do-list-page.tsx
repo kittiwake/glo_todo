@@ -1,5 +1,5 @@
-import { Form } from "../components/Form/form";
-import { Header } from "../components/Header/header";
+import { Form } from "../components/form/form";
+import { Header } from "../components/header/header";
 import { ToDoList } from "../components/to-do-list/to-do-list";
 
 export const ToDoListPage = () => {
